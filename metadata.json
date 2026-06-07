@@ -1,0 +1,6 @@
+{
+  "name": "Simple Concept Explainer",
+  "description": "Explains complex academic topics in simple terms using relatable analogies and concise summaries",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
